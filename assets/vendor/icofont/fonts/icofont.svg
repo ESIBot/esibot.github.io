@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+<font id="icofont" horiz-adv-x="1000" >
+<font-face font-family="IcoFont" font-weight="400" font-style="Regular" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="github" horiz-adv-x="1000" unicode="&#xed3e;" d="M738 785c-78-49-158-8-217 0-256 34-338-266-151-386-48-25-45-152 7-170-122-14-144-185-79-255 79-85 323-79 395 0 50 56 56 170 13 222-40 48-240 56-237 131 2 53 74 45 118 66 83 39 131 157 99 248 18 4 34 10 52 13v131z m-315-275c-96 210 221 195 125 0-32-23-94-25-125 0z m177-412c9-94-182-98-204-32-18 55 5 71 60 85 62 16 139 10 144-53z" />
+</font>
+</defs>
+</svg>
